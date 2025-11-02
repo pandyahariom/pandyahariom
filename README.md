@@ -34,7 +34,7 @@ I actively publish **open-source models on [🤗 Hugging Face](https://huggingfa
 ---
 
 ## 🧪 Selected Publications
-| 📝 Title | 📚 Venue / DOI |
+| 📝 Title | 📚 Venue |
 |-----------|----------------|
 | [Does learning from language family help? A case study on a question-answering task](https://doi.org/10.1017/nlp.2024.13) | *Cambridge University Press* |
 | [Enhancing Low-Resource Question-Answering Performance Through Word Seeding and Customized Refinement](https://doi.org/10.14569/IJACSA.2024.01503138) | *International Journal of Advanced Computer Science Applications (IJACSA)* |
