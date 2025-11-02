@@ -47,8 +47,8 @@ I actively publish **open-source models on [🤗 Hugging Face](https://huggingfa
 
 ---
 
-## 🤗 Open Source Models
-Explore my **AI/NLP models on Hugging Face**:  
+## 🤗 Published Open Source Models
+Explore my **12 AI/NLP models on Hugging Face**:  
 👉 [https://huggingface.co/hapandya](https://huggingface.co/hapandya)
 
 🔍 Focus Areas:
@@ -56,6 +56,11 @@ Explore my **AI/NLP models on Hugging Face**:
 - Contextual Embeddings for Low-Resource Languages  
 - Transformer Fine-tuning Experiments  
 
+---
+## 🧪 Recent Projects
+| 📝 Title | 📚 Repo link |
+|-----------|----------------|
+| Echo Agent |[ai-echo-agent](https://github.com/pandyahariom/ai-echo-agent) |
 ---
 
 ## ⚙️ Tech Stack
@@ -65,7 +70,7 @@ Explore my **AI/NLP models on Hugging Face**:
 | 💻 Languages | Python, C, C++ |
 | 🧠 AI/ML | PyTorch, TensorFlow, scikit-learn, Transformers |
 | 🧩 NLP | LLMs, QA, Chatbots, Sentiment Analysis, Embeddings |
-| 🌐 Frameworks | Django, FastAPI |
+| 🌐 Frameworks | Django, FastAPI, Odoo |
 | 🗄️ Data | NumPy, Pandas, PostgreSQL |
 | 🧰 Tools | Git, Linux, JSON, XML |
 
