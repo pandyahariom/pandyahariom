@@ -60,6 +60,7 @@ Explore my **12 AI/NLP models on Hugging Face**:
 ## 🧪 Recent Projects
 | 📝 Title | 📚 Repo link |
 |-----------|----------------|
+| Retrival QA - Chromadb | [similarity-search](https://github.com/pandyahariom/ai-chroma-similarity-search) |
 | Chat Agent [LiveApp](https://chatagent-by-hariom.streamlit.app/)|[ai-chatbot](https://github.com/pandyahariom/ai-chatbot)
 | Echo Agent |[ai-echo-agent](https://github.com/pandyahariom/ai-echo-agent) |
 ---
