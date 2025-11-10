@@ -60,7 +60,7 @@ Explore my **12 AI/NLP models on Hugging Face**:
 ## 🧪 Recent Projects
 | 📝 Title | 📚 Repo link |
 |-----------|----------------|
-| Railway QA | [RAG based QA System](https://github.com/pandyahariom/ai-chroma-railway-qa) |
+| Railway QA | [RAG based QA System](https://github.com/pandyahariom/ai-rag-railway-qa) |
 | Retrival QA - Chromadb | [similarity-search](https://github.com/pandyahariom/ai-chroma-similarity-search) |
 | Chat Agent [LiveApp](https://chatagent-by-hariom.streamlit.app/)|[ai-chatbot](https://github.com/pandyahariom/ai-chatbot)
 | Echo Agent |[ai-echo-agent](https://github.com/pandyahariom/ai-echo-agent) |
@@ -71,10 +71,9 @@ Explore my **12 AI/NLP models on Hugging Face**:
 | Category | Tools |
 |-----------|-------|
 | 💻 Languages | Python, C, C++ |
-| 🧠 AI/ML | PyTorch, TensorFlow, scikit-learn, Transformers |
-| 🧩 NLP | LLMs, QA, Chatbots, Sentiment Analysis, Embeddings |
-| 🌐 Frameworks | Django, FastAPI, Odoo |
-| 🗄️ Data | NumPy, Pandas, PostgreSQL |
+| 🧩 AI/ML/NLP | Transformers, LLMs, QA, Chatbots, Sentiment Analysis, Embeddings |
+| 🌐 Frameworks | FastAPI, Odoo |
+| 🗄️ Data | VectorDB, PostgreSQL |
 | 🧰 Tools | Git, Linux, JSON, XML |
 
 ---
